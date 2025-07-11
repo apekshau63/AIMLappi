@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>this is GRWPT index page</title>
+</head>
+
+<body>
+<h1>GRWPT SHIVAMOGGA</h2>
+<p>
+this is GRWPT Shivamogga,
+one of the best institude in world!
+ come and join us...
+</p>
+</body>
+
+</html>
